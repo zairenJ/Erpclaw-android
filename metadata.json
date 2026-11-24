@@ -1,0 +1,6 @@
+{
+  "name": "ERPClaw",
+  "description": "Offline-first ERPClaw mobile ERP with A2UI generative surfaces, connectivity sync, manual export, and Material You Theme Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

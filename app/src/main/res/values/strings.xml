@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ERPClaw</string>
+    <string name="nav_command">Command</string>
+    <string name="nav_operations">Modules</string>
+    <string name="nav_ledger_sync">Sync &amp; Ledger</string>
+    <string name="nav_studio">Studio</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="prompt_hint">Ask ERPClaw or type command (e.g. expense $45 lunch)…</string>
+    <string name="send_command">Generate A2UI</string>
+    <string name="attach_receipt">Attach receipt</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="export_json">Export ERPClaw JSON</string>
+    <string name="export_ledger_csv">Export Ledger CSV</string>
+    <string name="export_inventory_csv">Export Inventory CSV</string>
+    <string name="share_snapshot">Share JSON Snapshot</string>
+    <string name="load_sample_workspace">Load Sample Workspace</string>
+</resources>
